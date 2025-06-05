@@ -4,7 +4,7 @@ import { getFirestore } from "firebase/firestore";
 import { getFunctions } from "firebase/functions"; // ✅ Import functions
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAKHs5umvIDpvKL6HFADpfbeuWJyxfYJyM",
+  apiKey: "AIzaSyAKHs5umvID#vKL6HFADpfbeuWJyxfYJyM",//# is small 
   authDomain: "teacher-availability.firebaseapp.com",
   projectId: "teacher-availability",
   storageBucket: "teacher-availability.appspot.com",
